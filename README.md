@@ -1,5 +1,5 @@
 # guiTemplate
-Proyecto para usar como "project Template" en Intellij. 
+Proyecto para mostrar el uso de MouseAdapter
 Universidad del Valle
 Escuela de Ingeniería de Sistemas y Computación
 Asignaturas: Fundamentos de Programación Orientada a Eventos / Programación Interactiva
